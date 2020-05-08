@@ -35,10 +35,18 @@ header{
 	background-color:#fff;
 	margin-top:-80px;
 }
-.container .h1{
-	text-transform: uppercase;
-	text-align: center;
-	margin-bottom: 30px;
+.container .cumle{
+	width: 400px;
+  height: 100%;
+  background: #ffffff;
+  padding: 30px 0px;
+  
+}
+.container .cumle h1{
+	color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
 }
 /*İçeriğin Olacağı Kısmın Sonu*/
 
