@@ -35,6 +35,11 @@ header{
 	background-color:#fff;
 	margin-top:-80px;
 }
+.container .h1{
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 30px;
+}
 /*İçeriğin Olacağı Kısmın Sonu*/
 
 /*Alt Kısım Başlangıcı*/
